@@ -6,12 +6,19 @@
 <h1>basketbit</h1>
 <h2>software systems</h2>
 </div>
-<div id="menu">
-<ul>
+<div class="menu-wrap">
+<nav class="menu">
+<ul class="clearfix">
 <li><a href="index.html">Home</a></li>
-<li><a href="products.html">Products</a></li>
+<li><a href="products.html">Products &nbsp;<span class="arrow">&#9660;</span></a>
+  <ul class="sub-menu">
+    <li><a href="#">asdf1</a></li>
+    <li><a href="#">asdf2</a></li>
+  </ul>
+</li>
 <li><a href="https://github.com/schnet25">GitHub</a></li>
 <li><a href="http://wiki.basketbit.com">Wiki</a></li>
 </ul>
+</nav>
 </div>
 <div id="content">
