@@ -10,10 +10,10 @@
 <nav class="menu">
 <ul class="clearfix">
 <li><a href="index.html">Home</a></li>
-<li><a href="products.html">Products &nbsp;<span class="arrow">&#9660;</span></a>
+<li>Products &nbsp;<span class="arrow">&#9660;</span>
   <ul class="sub-menu">
-    <li><a href="#">asdf1</a></li>
-    <li><a href="#">asdf2</a></li>
+    <li><a href="filetemplater.html">File Templater</a></li>
+    <li><a href="owlhours.html">Owl Hours</a></li>
   </ul>
 </li>
 <li><a href="https://github.com/schnet25">GitHub</a></li>
