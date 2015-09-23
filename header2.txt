@@ -10,7 +10,7 @@
 <nav class="menu">
 <ul class="clearfix">
 <li><a href="index.html">Home</a></li>
-<li>Products &nbsp;<span class="arrow">&#9660;</span>
+<li><a href="">Products &nbsp;<span class="arrow">&#9660;</span></a>
   <ul class="sub-menu">
     <li><a href="filetemplater.html">File Templater</a></li>
     <li><a href="owlhours.html">Owl Hours</a></li>
