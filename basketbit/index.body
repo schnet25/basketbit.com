@@ -1,17 +1,20 @@
 <h1>Welcome to Basketbit Software Systems</h1>
 <h2>Our Mission</h2>
 <p>
-We're working on it
+To create affordable, lasting software
 </p>
-<h2>About Us</h2>
 <p>
-Expertise from embedded to enterprise systems
+We have a passion for creating software.
 No task too small
-We operate with the philopsophy that no task is too small.
-We specialize in full stack Linux Systems.
-We embrace open-source technology.
 </p>
-<h2>Contact</h2>
+<h2>Technology</h2>
+<p>
+<li>Linux</li>
+<li>c++</li>
+<li>java</li>
+<li>ARM</li>
+</p>
+<h2>About us</h2>
 <p>
 Have a question for us? Don't be shy! Shoot us an email: <a href="mailto:contact@basketbit.com?Subject=Web%20Contact">contact@basketbit.com</a>.
 </p>
