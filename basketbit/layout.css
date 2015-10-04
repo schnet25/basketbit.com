@@ -25,16 +25,12 @@
 #header h1 {
   margin: 0;
   padding: 62px 0 0 220px;
-/*  font: 700 3em "trebuchet ms", serif; */
-  font: 700 2.5em "Comic Sans MS", cursive, sans-serif;
-  letter-spacing: -1px;
+  font: 700 3em Impact, Charcoal, sans-serif;
   color: #000;
 }
 
-#header h2{
-  color: #000;
-  font: 700 1.3em "Comic Sans MS", cursive, sans-serif;
-/*  font: 600 2em "trebuchet ms", serif; */
+#header h2 {
+  font: 700 1.6em Impact, Charcoal, sans-serif;
   color: #449;
   margin: 0;
   padding: 0px 0 0 220px;
