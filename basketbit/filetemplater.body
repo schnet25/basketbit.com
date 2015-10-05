@@ -1,6 +1,6 @@
 <h2>File Templater</h2>
 <p>
-File templater is really a website templater. I probably should have just called it <i>Website Templater</i> or something to that efect; however, I didn't call it this because there is nothing that restricts the application to being used exclusively on html file.
+File templater is really a website templater. I probably should have just called it <i>Website Templater</i> or something along those lines; however, I didn't call it this because there is nothing that restricts the application to being used exclusively on html file.
 My motivation to create it was a lack of free, non-graphical, open source website templaters. I wanted to create something simple that would allow me to interweave static and dynamic blocks of code. The static pieces would be things like navigation bars, page headers and footers. The dynamic pieces are things like page titles and content.
 </p>
 <p>

@@ -1,23 +1,18 @@
 <h1>Welcome to Basketbit Software Systems</h1>
 <h2>Our Mission</h2>
 <p>
-To create affordable, lasting software
-</p>
-<p>
-We have a passion for creating software.
-No task too small
-</p>
-<p>
-Closing, unfinished tasks might as well be unstarted tasks
-</p>
-<h2>Technology</h2>
-<p>
-<li>Linux</li>
-<li>c++</li>
-<li>java</li>
-<li>ARM</li>
+Our mission is to create affordable, lasting software systems with a tireless focus on completeness.
 </p>
 <h2>About us</h2>
 <p>
-Have a question for us? Don't be shy! Shoot us an email: <a href="mailto:contact@basketbit.com?Subject=Web%20Contact">contact@basketbit.com</a>.
+We formed our business because we were passionate about creating software. We've always described coding as our form of Sudoku, an enjoyable yet gratifying task.
+We believe the most important attribute of a piece of software is completeness. To us, incomplete software is barely indistinguishable from unstarted software. Our customers demand fully implemented functionality and that will always be the paramount goal of Basketbit.
+</p>
+<h2>Technology</h2>
+<p>
+We consider ourselves full stack developers. We enjoy everything from bootloaders through application layer software. Most of our recent focus has been in algorithm development, C/C++, Java, Linux, Android, jQuery and embedded ARM systems. By no means is that the limit to our language and technology knowledge, it's just what we've been busy with lately. We are always hungry to learn new technologies.
+Learning new programming languages/technologies provides us the leverage to create beautiful, efficient software faster. It allows us to quickly identify the right tool/language/architecture for each task.
+</p>
+<p>
+Have a question for us? Don't be shy! Send us an email: <a href="mailto:contact@basketbit.com?Subject=Web%20Contact">contact@basketbit.com</a>.
 </p>
