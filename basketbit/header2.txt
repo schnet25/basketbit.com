@@ -2,9 +2,7 @@
 <body>
 <div id="wrapper">
 <div id="header">
-<img src="images/logo.png" alt="BasketBit" class="logo" />
-<h1>basketbit</h1>
-<h2>software systems</h2>
+<img src="images/bb_header.png" alt="BasketBit" class="logo" />
 </div>
 <div class="menu-wrap">
 <nav class="menu">
@@ -13,10 +11,9 @@
 <li><a href="#">Products &nbsp;<span class="arrow">&#9660;</span></a>
   <ul class="sub-menu">
     <li><a href="filetemplater.html">File Templater</a></li>
-    <li><a href="owlhours.html">Owl Hours</a></li>
+    <li><a href="minibit.html">MiniBit</a></li>
   </ul>
 </li>
-<li><a href="https://github.com/schnet25">GitHub</a></li>
 <li><a href="http://wiki.basketbit.com">Wiki</a></li>
 </ul>
 </nav>
